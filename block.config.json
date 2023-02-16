@@ -1,0 +1,14 @@
+{
+  "name": "newEventBlock",
+  "blockId": "DJHlXNkBas04Xjx7SHaV-",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/newEventBlock",
+    "ssh": "git@github.com:devthalal/newEventBlock.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
